@@ -1,0 +1,17 @@
+body{
+    background-color: teal;
+    color: aliceblue;
+}
+
+header{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.first_class-list-style{
+    list-style-type: circle;
+}
+
+#first_id-list-style{
+    list-style-position: inherit;
+}
